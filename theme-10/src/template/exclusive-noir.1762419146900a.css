@@ -1165,7 +1165,7 @@ section.video-gallery .inner .video-outer .video > .title h2 {
 .agenda-wrap {
     position: relative;
     overflow: hidden;
-    background-color: var(--background-primary);
+    /* background-color: var(--background-primary); */
 }
 .agenda-inner {
     padding: 60px 0;
