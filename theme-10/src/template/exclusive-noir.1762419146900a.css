@@ -541,7 +541,7 @@ section.top-cover .inner .highlight .preview-container .picture img {
     height: 100%;
     display: block;
     object-fit: cover;
-    object-position: center;
+    object-position: left;
 }
 
 /* ======================
