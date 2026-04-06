@@ -1174,7 +1174,7 @@ section.video-gallery .inner .video-outer .video > .title h2 {
 .agenda-head {  
     position: relative;
     padding: 20px 24px;
-    text-align: left;
+    text-align: center;
 }
 .agenda-head::after {
     content: '';
@@ -1227,7 +1227,7 @@ section.video-gallery .inner .video-outer .video > .title h2 {
 
 .event-head {
     padding: 20px 10px;
-    text-align: left;
+    text-align: center;
     border-radius: 12px;
 }
 .event-head .event-day {
@@ -1259,14 +1259,14 @@ section.video-gallery .inner .video-outer .video > .title h2 {
 }
 .activity-head {
     padding: 6px 0px;
-    text-align: left;
+    text-align: center;
 }
 .activity-head .activity-title {
     color: var(--text-secondary);
 }
 .activity-head .event-date {
     font-size: calc(var(--body-text-size) + var(--fs-extra-1));
-    display: flex;
+    /* display: flex; */
     align-items: center;
     gap: 8px;
 }
@@ -1290,7 +1290,7 @@ section.video-gallery .inner .video-outer .video > .title h2 {
 .event-details,
 .activity-details {
     padding: 6px 0px;
-    text-align: left;
+    text-align: center;
 }
 .event-details .event-hall,
 .activity-details .activity-hall {
